@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Vanquish BJJ's website!](https://www.vanquishbjj.co.uk/home)
 
-- 🌱 I’m currently learning **SpringBoot, Distributed Systems, Embedded systems programming + C**
+- 🌱 I’m currently learning **SpringBoot, Distributed Cloud Computing, Microservices, Go, Embedded systems programming + C**
 
 - 💬 Ask me about **SpringBoot and the VanquishBJJ architechure**
 

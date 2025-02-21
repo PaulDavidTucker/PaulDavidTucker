@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pauldavidtucker" alt="pauldavidtucker" /></a> </p>
 
-- 🔭 I’m currently working on [Vanquish BJJ's website!](https://www.vanquishbjj.co.uk/home)
+- 🔭 I’m currently working on [Vanquish BJJ's website!](https://www.vanquishbjj.co.uk)
 
 - 🌱 I’m currently learning **SpringBoot, Distributed Cloud Computing, Microservices, Go, Embedded systems programming + C**
 
